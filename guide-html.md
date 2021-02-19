@@ -77,7 +77,6 @@ La structure globale préconisée est celle-ci :
 __En savoir plus sur la sémantique structurelle__
 https://www.w3.org/WAI/tutorials/page-structure/
 
-
 #### Menu de navigation
 
 Utiliser des combinaisons `<ul><li>` (liste non ordonnée) pour structurer les menus de navigation dans un élément `<nav role="navigation”>`.
